@@ -1,0 +1,39 @@
+* {
+    font-family: 'League Spartan', sans-serif;
+}
+body {
+    background-color: black;
+    color: white;
+}
+.container-fluid {
+    background-color: black;
+}
+a:hover, .nav-link:hover {
+    color: rgb(192, 224, 222, 0.5);
+}
+footer {
+    text-align: center;
+    padding: 2em;
+}
+footer a {
+    color: white;
+    text-decoration: none;
+}
+.fa-solid{
+    color: white;
+    background-color: black;
+}
+.icons i,
+.icons svg {
+   color: white;
+}
+.social-icons {
+    size: 20px;
+}
+#main a {
+    color: white;
+    text-decoration: none;
+}
+#main a:hover {
+    color: rgb(192, 224, 222, 0.5);
+}
